@@ -1,6 +1,6 @@
 # 📦 CMT\_ModelTraining
 
-This repository contains all files related to **model training** and evaluation for the project.
+This repository contains all files related to **model training** and evaluation for our thesis.
 
 ---
 
