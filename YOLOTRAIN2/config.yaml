@@ -1,0 +1,10 @@
+path: /content/data  # Full path for Colab usage
+
+train: images/train  # Path to training images
+val: images/val      # Path to validation images
+test: images/test      # Path to test images
+
+nc: 1
+
+names: 
+  0: Tricycle

@@ -1,0 +1,11 @@
+# test_config.yaml
+
+path: /content/data  # Base path for images and labels
+
+train: images/train  # Path to training images
+val: images/test     # Use the test set as validation input for testing purposes
+
+nc: 1
+
+names:
+  0: Tricycle
